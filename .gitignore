@@ -1,1 +1,4 @@
 __pycache__/
+out.txt
+err.txt
+test_output.txt
